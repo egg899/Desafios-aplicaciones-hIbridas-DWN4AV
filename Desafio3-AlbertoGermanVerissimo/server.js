@@ -4,13 +4,14 @@ import os from "os";
 import path from "path";
 
 
-const PORT = 3001;
+const PORT = 3000;
 
 const server = http.createServer((req, res) => {
     // console.log("url", req.url);
     // console.log("method", req.method);
     // console.log("url", req.headers);
-
+    // const filePath = path.join('./', 'index.html');
+    // console.log("filePath", filePath);
 
     switch(req.method) {
         case 'GET':
@@ -18,7 +19,7 @@ const server = http.createServer((req, res) => {
                 res.writeHead(200, {'Content-Type':'text/plain; charset=utf-8' });
                 res.end('Alumno: Alberto Germán Verissimo, Comisión:W0D44')
             }//alumno
-            else if(req.utl === '/info') {
+            else if(req.url === '/info') {
                 const osInfo = {
                     platform:os.platform(),
                     architecture: os.architecture(),
