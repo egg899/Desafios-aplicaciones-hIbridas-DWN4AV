@@ -7,5 +7,7 @@
 **Este desafio requeria crear un servidor con Express**
 ## Acabo de subir el Quinto desafio
 **Este desafio requeria crear varias paginas con el patron MVC, Rutas y Express**
-## Acabo de subir el Quinto desafio
+## Acabo de subir el Sexto desafio
 **Este desafio requeria agregar autenticación basada en JWT**
+## Acabo de subir el Septimo desafio
+**Este desafio utilizar MongoDB tales como la creacion de bases de datos y de la alteracion de dicha informacion**
