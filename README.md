@@ -10,4 +10,7 @@
 ## Acabo de subir el Sexto desafio
 **Este desafio requeria agregar autenticación basada en JWT**
 ## Acabo de subir el Septimo desafio
-**Este desafio utilizar MongoDB tales como la creacion de bases de datos y de la alteracion de dicha informacion**
+**Este desafio requeria utilizar MongoDB tales como la creacion de bases de datos y de la alteracion de dicha informacion**
+
+## Acabo de subir el Noveno desafio
+**Este desafio requeria usar React crear componentes en React**
